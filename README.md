@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roka</h1>
+<h1 align="center">Hi 👋, I'm Aashish Roka</h1>
 <h3 align="center">A Passionate Full Stack Developer | Lifelong Learner</h3>
 
 ---
